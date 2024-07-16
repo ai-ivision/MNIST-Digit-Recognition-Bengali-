@@ -1,0 +1,5 @@
+    # Ignore virtual environment
+BMS_LIT/
+
+# Ignore compiled Python files
+*.pyc
